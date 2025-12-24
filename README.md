@@ -1,1 +1,1 @@
-# AnamolyDetection_System
+# AnomalyDetection_System
